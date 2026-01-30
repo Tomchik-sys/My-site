@@ -1,0 +1,108 @@
+Папка школа
+
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Про мене</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(120deg, #1e1e2f, #2c2c54);
+            color: white;
+        }
+
+        header {
+            text-align: center;
+            padding: 60px 20px;
+        }
+
+        header h1 {
+            font-size: 42px;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 18px;
+            opacity: 0.8;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        .card {
+            background: rgba(255,255,255,0.08);
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+        }
+
+        h2 {
+            color: #4da8ff;
+            margin-bottom: 10px;
+        }
+
+        ul {
+            padding-left: 20px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            opacity: 0.6;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Привіт, я Тимофій 👋</h1>
+    <p>Школяр • Спорт • Саморозвиток</p>
+</header>
+
+<div class="container">
+
+    <div class="card">
+        <h2>🙋‍♂️ Про мене</h2>
+        <p>
+            Мене звати Тимофій. Я навчаюся у школі, займаюся спортом та
+            працюю над собою щодня. Мені подобається ставити цілі
+            та досягати їх.
+        </p>
+    </div>
+
+    <div class="card">
+        <h2>💪 Мої інтереси</h2>
+        <ul>
+            <li>Тренування та спорт</li>
+            <li>Саморозвиток</li>
+            <li>Ігри та технології</li>
+            <li>Онлайн-заробіток</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h2>🎯 Мої цілі</h2>
+        <ul>
+            <li>Покращити фізичну форму</li>
+            <li>Навчитися заробляти онлайн</li>
+            <li>Стати дисциплінованим</li>
+            <li>Розвиватися щодня</li>
+        </ul>
+    </div>
+
+</div>
+
+<footer>
+    © 2026 | Сайт Тимофія
+</footer>
+
+</body>
+</html>
+	◦	
